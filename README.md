@@ -1,5 +1,5 @@
 # Underwater-Dataset
-Dataset of Underwater images 
+Dataset of Underwater images.  All images were taken either with a camera attached to a diver or with an AUV model SPARUS II, property of the University of the Balearic Islands (UIB) and equipped with a stereo rig. Images are representative of multiple different scenarios of the marine environment located in different sites of Balearic Islands, with different textures and lighting conditions. 
 
 This repository contains:
 
